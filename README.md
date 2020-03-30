@@ -1,5 +1,8 @@
 # Visualization of Reported Cases of Covid-19 in the United States
 
+## To launch the visualization, click on this **launch binder** button
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wsular/covid-19/master?filepath=covid-19.ipynb)
+
 ## Created by:
 - [Von P. Walden](mailto:v.walden@wsu.edu)
 - Washington State University
